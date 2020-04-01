@@ -189,61 +189,17 @@ function twentyfifteen_get_color_schemes() {
 					'#f7f7f7',
 				),
 			),
-			'dark'    => array(
-				'label'  => __( 'Dark', 'twentyfifteen' ),
+			'brand'    => array(
+				'label'  => __( 'Brand Colors', 'twentyfifteen' ),
 				'colors' => array(
-					'#111111',
-					'#202020',
-					'#202020',
-					'#bebebe',
-					'#bebebe',
-					'#1b1b1b',
+					'#fcf4e0',
+					'#3b2360',
+					'#ffffff',
+					'#333333',
+					'#ffffff',
+					'#ffffff',
 				),
-			),
-			'yellow'  => array(
-				'label'  => __( 'Yellow', 'twentyfifteen' ),
-				'colors' => array(
-					'#f4ca16',
-					'#ffdf00',
-					'#ffffff',
-					'#111111',
-					'#111111',
-					'#f1f1f1',
-				),
-			),
-			'pink'    => array(
-				'label'  => __( 'Pink', 'twentyfifteen' ),
-				'colors' => array(
-					'#ffe5d1',
-					'#e53b51',
-					'#ffffff',
-					'#352712',
-					'#ffffff',
-					'#f1f1f1',
-				),
-			),
-			'purple'  => array(
-				'label'  => __( 'Purple', 'twentyfifteen' ),
-				'colors' => array(
-					'#674970',
-					'#2e2256',
-					'#ffffff',
-					'#2e2256',
-					'#ffffff',
-					'#f1f1f1',
-				),
-			),
-			'blue'    => array(
-				'label'  => __( 'Blue', 'twentyfifteen' ),
-				'colors' => array(
-					'#e9f2f9',
-					'#55c3dc',
-					'#ffffff',
-					'#22313f',
-					'#ffffff',
-					'#f1f1f1',
-				),
-			),
+			)
 		)
 	);
 }
